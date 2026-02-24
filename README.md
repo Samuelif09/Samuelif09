@@ -1,16 +1,28 @@
-## Hi there 👋
+# Samuel Iregui Franco
+## **Ocupacion:** Estudiante de ingenieria de sistemas, Pontificia Universidad Javeriana (Bogota)
 
-<!--
-**Samuelif09/Samuelif09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Intereses:**
+* **Deportes en general(tenis,fútbol,voleyball etc..)**
+* **Salir con amigos**
+* **Carros**
+* **Familia**
 
-Here are some ideas to get you started:
+## **Cualidades:**
+* **Aprendizaje rapido**
+* **Comunicacion**
+* **Deportes**
+* **Pensamiento logico**
+* **Sentido comun**
+* **Social**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Actitudes:**
+* **Persistencia ante las adversidades**
+* **Ambicion**
+* **confianza**
+* **Disciplina**
+* **Responsabilidad**
+
+## **¿Quien soy?:**
+Soy Samuel Iregui Franco, naci en el año 2006 en Villavicencio-Colombia.
+Mi familia esta conformada por mama, papa, tres hermanos mayores.
+Soy una persona a la que le gusta estar haciendo cosas, ser bastante social, salir con amigos y aprender cosas nuevas cada día y ver cómo aplicarlas en cosas positivas, además me considero una persona que entiende muchas cosas fácilmente y sabe cómo manejarlas y realizarlas
